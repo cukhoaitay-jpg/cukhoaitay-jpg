@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm TRA MI 👋
 
-<!--
-**cukhoaitay-jpg/cukhoaitay-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 **Aspiring Fullstack Developer & Japanese Specialist (JLPT N3)**
 
-Here are some ideas to get you started:
+- 🔭 **Current Focus:** Learning Fullstack Web Development (HTML/CSS/JS, Python, OOP, SQL).
+- 🇯🇵 **Languages:** Japanese (JLPT N3 - Technical Spec & Communication), English.
+- 🎯 **Goals:** Becoming a professional Fullstack / Bridge Software Engineer (BrSE).
+- 🎸 **Hobbies:** Running, Playing Guitar, Reading.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ⚡ GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cukhoaitay-jpg&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cukhoaitay-jpg&layout=compact&theme=radical" alt="Top Langs" width="48%" />
+</p>
